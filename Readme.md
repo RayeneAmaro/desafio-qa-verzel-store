@@ -40,7 +40,7 @@ Os testes automatizados cobrem 2 cenários de interface e 1 de API, concentrados
 
 1. Clonar o repositório:
    ```bash
-   git clone [https://github.com/RayeneAmaro/desafio-qa-verzel-store.git](https://github.com/RayeneAmaro/desafio-qa-verzel-store.git)
+   git clone https://github.com/RayeneAmaro/desafio-qa-verzel-store.git
    cd desafio-qa-verzel-store
    ```
 
