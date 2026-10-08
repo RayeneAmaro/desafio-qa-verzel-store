@@ -1,12 +1,12 @@
 # Desafio Técnico de QA - Verzel
 
-Repositório com o planeamento de testes, execução manual, relatório de bugs e automação de testes para a loja virtual Verzel Store.
+Repositório com o planejamento de testes, execução manual, relatório de bugs e automação de testes para a loja virtual Verzel Store.
 
 ---
 
 ## 📁 Documentação do Projeto
 
-Toda a documentação completa dos testes manuais, matriz de cobertura, casos de teste em Gherkin e relatório do bug encontrado estão centralizados no ficheiro PDF:
+Toda a documentação completa dos testes manuais, matriz de cobertura, casos de teste em Gherkin e relatório do bug encontrado estão centralizados no arquivo PDF:
 * 📄 **Documento Completo:** localizado em `docs`
 
 As capturas de tela das evidências e dos bugs encontram-se organizadas dentro da pasta `docs/imgs/`.
@@ -15,7 +15,7 @@ As capturas de tela das evidências e dos bugs encontram-se organizadas dentro d
 
 ## 🧪 Automação com Playwright
 
-Os testes automatizados cobrem 2 cenários de interface e 1 de API, concentrados no ficheiro `tests/verzel-store.spec.js`:
+Os testes automatizados cobrem 2 cenários de interface e 1 de API, concentrados no arquivo `tests/verzel-store.spec.js`:
 
 * **CT12:** `[UI]` Aplicação de cupom de desconto de 10% no carrinho.
 * **CT13:** `[UI]` Validação de frete grátis em compras acima de R$ 200,00.
@@ -58,3 +58,5 @@ Os testes automatizados cobrem 2 cenários de interface e 1 de API, concentrados
     ```bash
     npx playwright show-report
     ```
+
+## Obrigada 🤗
