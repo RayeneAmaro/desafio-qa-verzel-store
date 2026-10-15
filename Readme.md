@@ -49,6 +49,11 @@ Os testes automatizados cobrem 2 cenários de interface e 1 de API, concentrados
     npm install
     ```
 
+3. Instalar os navegadores do Playwright:
+   ```bash
+  npx playwright install
+  ```
+
 3. Executar os testes em modo headless:
    ```bash
     npx playwright test
