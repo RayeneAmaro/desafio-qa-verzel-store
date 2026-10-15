@@ -39,29 +39,29 @@ Os testes automatizados cobrem 2 cenários de interface e 1 de API, concentrados
 ## 🚀 Como Executar os Testes
 
 1. Clonar o repositório:
-   ```bash
-   git clone https://github.com/RayeneAmaro/desafio-qa-verzel-store.git
-   cd desafio-qa-verzel-store
-   ```
+  ```bash
+  git clone https://github.com/RayeneAmaro/desafio-qa-verzel-store.git
+  cd desafio-qa-verzel-store
+  ```
 
 2. Instalar as dependências:
-   ```bash
-    npm install
-    ```
+  ```bash
+  npm install
+  ```
 
 3. Instalar os navegadores do Playwright:
-   ```bash
+  ```bash
   npx playwright install
   ```
 
-3. Executar os testes em modo headless:
-   ```bash
-    npx playwright test
-    ```
+4. Executar os testes em modo headless:
+  ```bash
+  npx playwright test
+  ```
 
-4. Visualizar o relatório de execução:
-    ```bash
-    npx playwright show-report
-    ```
+5. Visualizar o relatório de execução:
+  ```bash
+  npx playwright show-report
+  ```
 
 ## Obrigada 🤗
